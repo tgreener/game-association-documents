@@ -1,0 +1,42 @@
+Operating Guidelines
+For the Association of Awesome Game Creation (v0.001)
+
+Definitions:
+- The Association of Awesome Game Creation, also called "this association," is an unincorporated association which helps people to organize in the purpose of creating awesome games.
+- Members of this association, or simply "members," are any persons who match the definition of member as stated in the membership section.
+- A project is any activity proposed for advancement by this association. It should be directly related to game creation in some way.
+- Founding members are those members who consent to adopt the initial Operational Guidelines, and in so doing, declare their intention to form this association. There must be more than one founding member.
+
+Preamble:
+
+- This document defines the protocols by which this association is organized. Its purpose is to inform members how the association operates in order to prevent confusion and remove roadblocks in communication.
+
+Governance:
+
+- All articles contained within this document will only be adopted by consent of founding association members.
+- Amendment process:
+  - Amendments to the Operating Guidelines can be put forward at any time by any member.
+  - Amendments will be adopted through consent of all current members.
+
+Membership:
+
+-  A member is any natural person who voluntarily provides their time and labor to build, improve, and in any way add value to the projects advanced by this association; and has been acknowledged by this association as a member by consent of current membership.
+- This definition of membership will only apply to up to ten members, to add more members beyond ten this document must be amended to clarify the rights and responsibilities of members more specifically.
+
+Projects:
+
+- In order to focus resources behind specific projects, this association shall select projects for advancement. 
+- While recognizing that all labor on association projects is voluntary, it is noted that members shall not expect other association members to work on projects that have not been selected.
+- This association shall, at any given time, have at most two projects that it is currently advancing.
+- Which projects are currently being advanced shall be selected using the following process:
+  1. A member shall propose a project that they wish to advance. There is no limit to the number of projects that can be proposed.
+  2. When this association is not currently advancing less than the maximum number of projects, voting for new projects can occur.
+  3. Members may then put forward any or all of their proposed projects to be voted upon.
+  4. Each member will then vote on projects using a ranked choice and instant runoff system. Runoffs will be applied until only two projects remain.
+  5. If there are currently 0 projects being advanced, both projects remaining from the voting shall be selected, and if 1 project is currently being advanced, then only the project with the most votes will be selected.
+- Once a project has been selected, it can be presented to the association as ready for advancement.
+- Implementations of this project selection system shall be determined by the consent of association members.
+
+Records:
+
+- Association members will make decisions about many aspects of association operation, and a clear paper trail is to be maintained.
